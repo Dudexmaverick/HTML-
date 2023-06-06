@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="description" content="site in description">
+    <meta name="title" content="nav bar">
+</head>
+<body>
+    <header>
+        <nav>
+            <a>class="logo" href="/">the codes</a>
+            <ul> class="nav-list">
+                <li>
+                    <a>href="/">inicio</a>
+                </li>
+                <li>
+                    <a>href="projetos"</a>
+                </li>
+                <li><a>href=""</a></li>
+            </ul>
+        </nav>
+    </header>
+</body>
+</html>
